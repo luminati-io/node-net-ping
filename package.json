@@ -10,14 +10,8 @@
     "@luminati-io/raw-socket": "*"
   },
   "contributors": [
-    {
-      "name": "Stephen Vickers",
-      "email": "stephen.vickers@nospaceships.com"
-    },
-    {
-      "name": "NoSpaceships Ltd",
-      "email": "hello@nospaceships.com"
-    }
+    "Stephen Vickers <stephen.vickers@nospaceships.com>",
+    "NoSpaceships Ltd <hello@nospaceships.com>"
   ],
   "repository": {
     "type": "git",
@@ -28,8 +22,8 @@
     "icmp",
     "monitor",
     "monitoring",
-  	 "net",
-  	 "network",
+    "net",
+    "network",
     "ping",
     "trace",
     "trace-route",
