@@ -1,6 +1,6 @@
 {
-  "name": "net-ping",
-  "version": "1.2.3",
+  "name": "@luminati-io/net-ping",
+  "version": "1.2.3-lum.2",
   "description": "Ping and trace route to many hosts at once.",
   "main": "index.js",
   "directories": {
